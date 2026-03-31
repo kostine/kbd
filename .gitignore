@@ -1,0 +1,28 @@
+# Binary
+kbd
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Mise
+.mise.local.toml
+
+# Internal docs
+internal/k9s-analysis.md
